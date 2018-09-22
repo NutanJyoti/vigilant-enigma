@@ -13,6 +13,13 @@ class project():
              print("a")
         else:
             print("b")
+            
+    def divide(self,name):
+        players = input(name +" enter the no.")
+        if (name == "player1"):
+             print("a")
+        else:
+            print("b")
       
             
 def main(): 
