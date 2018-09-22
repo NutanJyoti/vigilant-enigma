@@ -6,6 +6,13 @@ class project():
              print("a")
         else:
             print("b")
+            
+    def multiple(self,name):
+        players = input(name +" enter the no.")
+        if (name == "player1"):
+             print("a")
+        else:
+            print("b")
       
             
 def main(): 
